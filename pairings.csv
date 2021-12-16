@@ -1,7 +1,7 @@
-;Drukhari 1;Nécrons 1;GK 1;Sistas 1;Orks 1;TS 1
-Drukhari 2;10;5;5;10;10;5
-SM 2;15;15;20;15;15;15
-Admech 2;5;5;10;5;15;10
-DG 2;10;10;15;5;5;15
-Sistas 2;10;15;10;10;5;15
-Custodes 2;15;20;15;10;15;15
+;WarpPigs Drukh;WarpPigs GK;WarpPigs Orks;WarpPigs IH;WarpPigs Tyty;WarpPigs Custo
+Opp Drukh;10;13;7;15;10;4
+Opp AdMech;10;13;10;7;7;10
+Opp IK;13;7;10;15;13;15
+Opp Gronid;13;7;15;10;7;7
+Opp WS;13;10;15;10;7;10
+Opp DG;13;13;7;10;15;10
